@@ -16,4 +16,4 @@ crimes in chicago 2001 - 2018
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 ## Next steps
-The first step will be cleaning the data.
+The first step will be cleaning the data and EDA. 
